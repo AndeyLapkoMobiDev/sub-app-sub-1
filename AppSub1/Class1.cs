@@ -2,7 +2,7 @@
 {
     public class Class1
     {
-        public int Test()
+        public int Test1()
         {
             return 1;
         }
